@@ -25,7 +25,7 @@ It includes all individual parts, the assembly file, and a demonstration video.
 
 ## 🔧 Software Used
 
-- **SolidWorks 2021**  
+- **SolidWorks 2018**  
 - Rendered and assembled using SolidWorks Motion Study
 
 ## 🎯 Purpose
