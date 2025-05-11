@@ -1,28 +1,35 @@
-# Machine Vise – 3D CAD Project
+# 🛠️ SolidWorks Projects – Ensar's CAD Portfolio
 
-This project is a full 3D assembly of a mechanical machine vise modeled in SolidWorks.  
-Each component is individually modeled and assembled using proper mates. The project includes animation and a render image.
+Bu depo, bireysel olarak modellediğim çeşitli SolidWorks projelerini içermektedir.  
+Projelerin çoğu eğitim amaçlıdır ve teknik çizimlerden esinlenilmiştir. Bazı modeller özgün, bazıları ise referans alınarak modellenmiştir.
 
-## 🧩 Components
-- Jaw Plate
-- Movable Jaw
-- Vise Body
-- Threaded Rod
-- Handle Shaft
-- Set Screws and Fasteners
-
-## 🎬 Features
-- Opening and closing animation using motion study
-- High-quality JPEG render
-- Organized part files and assembly
-
-## 🔧 Software Used
-- SolidWorks Premium 2018 SP5.0
-
-## 📎 Media
-- `animation.mp4` – opening/closing demonstration
-- `render.jpg` – visual presentation of final assembly
+This repository contains a collection of my SolidWorks projects modeled individually.  
+Most models are for educational and showcase purposes. Some designs are original, while others are inspired by technical drawings or online references.
 
 ---
 
-**Note:** This vise model is based on technical drawings and modeled entirely for educational and portfolio purposes.
+## 📂 Proje Klasörleri | Project Folders
+
+- `tank` – Modern savaş tankı modeli (Modern battle tank 3D assembly)
+- `vise machine` – Mekanik mengeneli sistem (Mechanical vise assembly)
+
+---
+
+## 💡 Not / Note
+
+> **Bu tasarımların bazıları internetten esinlenilerek yapılmıştır. Tasarımlar tamamen bana ait değildir.**  
+> **Some models are inspired by online sources and not originally designed by me.**
+
+---
+
+## 📷 Görseller ve Videolar | Media
+
+Projeler ile ilgili görseller ve animasyonlar ilgili klasörlerin içinde bulunmaktadır.  
+Images and motion studies are included in related folders (e.g., `render/`, `.mp4`, `.jpg`).
+
+---
+
+## 🧰 Kullanılan Yazılım | Software Used
+
+- SolidWorks Premium 2018 SP5.0
+- Visual Studio Code (README düzenleme)
